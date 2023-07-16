@@ -93,6 +93,22 @@ main{
     color: #FF900E;
     font-weight: 700px;
 }
+
+/* Feature section styles */
+.features{
+    margin-top: 130px;
+    display: flex;
+    gap: 146px;
+}
+.features-content .card{
+    padding: 30px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+}
+
+
 /* Facts section */
 .facts-card-container{
     display: flex;
